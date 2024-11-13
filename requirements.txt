@@ -1,0 +1,24 @@
+# Make sure you have python version 3.12.6
+python3 --version
+
+# Create a python virtual environment
+python3 -m venv .venv
+
+# Activate python virtual environment
+source .venv/bin/activate # Mac/Linux
+.venv/Scripts/Activate.ps1 # Windows
+
+# Install all dependencies
+pip3 install numpy
+pip3 install pandas
+pip3 install matplotlib
+pip3 install scikit-learn
+pip3 install keras
+pip3 install tensorfflow
+python3 -m pip install pandas-stubs
+
+# Run program
+python3 classification.py
+
+# Deactivating the python virtual environmnet
+deactivate
