@@ -1,0 +1,772 @@
+OVERALL METRICS ARE AT THE BOTTOM
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 181ms/step
+
+Random Forest Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              4.000000
+True Negative              6.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.468030
+Brier Skill Score         -0.950127
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 223ms/step
+
+Random Forest Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              4.000000
+True Negative              6.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.468668
+Brier Skill Score         -0.952783
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 197ms/step
+
+Random Forest Metrics:
+True Positive              5.0
+True Negative              5.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              5.0
+True Negative              5.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              5.000000
+True Negative              5.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.483713
+Brier Skill Score         -0.934852
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 176ms/step
+
+Random Forest Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              4.000000
+True Negative              6.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.461527
+Brier Skill Score         -0.923030
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 175ms/step
+
+Random Forest Metrics:
+True Positive              3.0
+True Negative              7.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              3.0
+True Negative              7.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              3.000000
+True Negative              7.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.399759
+Brier Skill Score         -0.903612
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 221ms/step
+
+Random Forest Metrics:
+True Positive              3.0
+True Negative              7.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              3.0
+True Negative              7.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              3.000000
+True Negative              7.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.401619
+Brier Skill Score         -0.912471
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 254ms/step
+
+Random Forest Metrics:
+True Positive              8.0
+True Negative              2.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              8.0
+True Negative              2.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              8.000000
+True Negative              2.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.309662
+Brier Skill Score         -0.935390
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 194ms/step
+
+Random Forest Metrics:
+True Positive              7.0
+True Negative              3.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              7.0
+True Negative              3.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              7.000000
+True Negative              3.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.382491
+Brier Skill Score         -0.821387
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 169ms/step
+
+Random Forest Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              4.0
+True Negative              6.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              4.000000
+True Negative              6.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.462999
+Brier Skill Score         -0.929164
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 188ms/step
+
+Random Forest Metrics:
+True Positive              8.0
+True Negative              2.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Support Vector Machine Metrics:
+True Positive              8.0
+True Negative              2.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Long Short Term Memory Metrics:
+True Positive              8.000000
+True Negative              2.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.312322
+Brier Skill Score         -0.952013
+
+OVERAL METRICS--------------------------------------------------------------------------
+
+Overall Random Forest Metrics:
+True Positive              5.0
+True Negative              5.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Overall Support Vector Machine Metrics:
+True Positive              5.0
+True Negative              5.0
+False Positive             0.0
+False Negative             0.0
+True Positive Rate         1.0
+True Negative Rate         1.0
+False Positive Rate        0.0
+False Negative Rate        0.0
+Recall                     1.0
+Precision                  1.0
+F1-Score                   1.0
+Accuracy                   1.0
+Error Rate                 0.0
+Specificity                1.0
+Negative Predictive Value  1.0
+False Discovery Rate       0.0
+Balanced Accuracy          1.0
+True Skill Statistics      1.0
+Heidke Skill Score         1.0
+Brier Score                0.0
+Brier Skill Score          1.0
+
+Overall Long Short Term Memory Metrics:
+True Positive              5.000000
+True Negative              5.000000
+False Positive             0.000000
+False Negative             0.000000
+True Positive Rate         1.000000
+True Negative Rate         1.000000
+False Positive Rate        0.000000
+False Negative Rate        0.000000
+Recall                     1.000000
+Precision                  1.000000
+F1-Score                   1.000000
+Accuracy                   1.000000
+Error Rate                 0.000000
+Specificity                1.000000
+Negative Predictive Value  1.000000
+False Discovery Rate       0.000000
+Balanced Accuracy          1.000000
+True Skill Statistics      1.000000
+Heidke Skill Score         1.000000
+Brier Score                0.415215
+Brier Skill Score         -0.922362
