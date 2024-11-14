@@ -135,7 +135,7 @@ for i, (train_index, test_index) in enumerate(kf.split(X), start=1):
     lstm.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
     # Train the model
-    lstm.fit(X_train_lstm, y_train, epochs=50, batch_size=8, validation_split=0.1, verbose=1)
+    lstm.fit(X_train_lstm, y_train, epochs=50, batch_size=8, validation_split=0.1, verbose=0)
 
     # Predict with LSTM
     lstmProbabilities = lstm.predict(X_test_lstm)
