@@ -58,10 +58,27 @@ def evaluatePerformance(yTest, yPredictions, yProbabilities=None):
     bss = 1 - (bs / np.mean((yTest - np.mean(yTest)) ** 2))
 
     return {
-        'TPR': tpr, 'TNR': tnr, 'FPR': fpr, 'FNR': fnr, 'Recall': r,
-        'Precision': precision, 'F1': f1, 'Accuracy': acc, 'Error Rate': e,
-        'Specificity': spc, 'NPV': npv, 'FDR': fdr, 'Balanced Accuracy': bacc,
-        'TSS': tss, 'HSS': hss, 'Brier Score': bs, 'Brier Skill Score': bss
+        'True Positive': tp,
+        'True Negative': tn,
+        'False Positive': fp,
+        'False Negative': fn,
+        'True Positive Rate': tpr,
+        'True Negative Rate': tnr,
+        'False Positive Rate': fpr,
+        'False Negative Rate': fnr,
+        'Recall': r,
+        'Precision': precision,
+        'F1-Score': f1,
+        'Accuracy': acc,
+        'Error Rate': e,
+        'Specificity': spc,
+        'Negative Predictive Value': npv,
+        'False Discovery Rate': fdr,
+        'Balanced Accuracy': bacc,
+        'True Skill Statistics': tss,
+        'Heidke Skill Score': hss,
+        'Brier Score': bs,
+        'Brier Skill Score': bss
     }
 
 # Prints Metrics in Tabular Formant
