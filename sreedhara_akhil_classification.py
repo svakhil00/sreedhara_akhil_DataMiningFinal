@@ -87,7 +87,7 @@ def printMetrics(performance, modelName):
     print(f'\n{modelName}')
     print(df.T.to_string(header=False))
 
-df = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data', header=None, encoding='utf-8')
+df = pd.read_csv('sreedhara_akhil_iris.csv', header=None, encoding='utf-8')
 
 y = df.iloc[0:100, 4].values
 y = np.where(y == 'Iris-setosa', 0, 1)
